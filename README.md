@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**crysern/Crysern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Crysern/Chris, I am from South Africa, and I am a student currently pursuing a master's degree in science in data science and machine learning in the united kingdom.
 
 # 👨‍💻 Projects I'm working on
 
@@ -31,4 +27,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: crysernsmith@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am fom South Africa, somehow managed to get work experince in Hong Kong and i am now living in London
--->
