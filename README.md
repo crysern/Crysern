@@ -1,6 +1,21 @@
 ### Hi there 👋
 I am Crysern/Chris, I am from South Africa, and I am a student currently pursuing a master's degree in science in data science and machine learning in the united kingdom.
 
+
+- 🌱 I’m currently learning R programming and More SQL and Data pipelines, API workflows, CI/CD, containerisation) – specifically ML Ops principles, techniques and tooling and containerism
+
+- 🤔 I’m looking for help with everything all the time, i enjoy learning from others.
+
+- 💬 Ask me about Anything.
+
+- 📫 How to reach me: crysernsmith@gmail.com
+
+- 😄 Pronouns: she/her
+
+- ⚡ Fun fact: I am fom South Africa, somehow managed to get work experince in Hong Kong and i am now living in London
+
+
+
 # 👨‍💻 Projects I'm working on
 
 ## 📊 Data Analysis
@@ -20,10 +35,3 @@ I am Crysern/Chris, I am from South Africa, and I am a student currently pursuin
 
 -   SQL Project - Upon completion with Code First Girls Course
 -   Google Analytics Project
-
-- 🌱 I’m currently learning R programming and More SQL and Data pipelines, API workflows, CI/CD, containerisation) – specifically ML Ops principles, techniques and tooling and containerism
-- 🤔 I’m looking for help with everything all the time, i enjoy learning from others.
-- 💬 Ask me about Anything.
-- 📫 How to reach me: crysernsmith@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am fom South Africa, somehow managed to get work experince in Hong Kong and i am now living in London
