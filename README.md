@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
 # 👨‍💻 Projects I'm working on
 
 ## 📊 Data Analysis
