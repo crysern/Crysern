@@ -12,7 +12,6 @@ I am Crysern/Chris, I am from South Africa, and I am a student currently pursuin
 
 - 😄 Pronouns: she/her
 
-- ⚡ Fun fact: I am fom South Africa, somehow managed to get work experince in Hong Kong and i am now living in London
 
 
 
