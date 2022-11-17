@@ -1,6 +1,4 @@
 ### Hi there 👋
-I am Crysern/Chris, I am from South Africa, and I am a student currently pursuing a master's degree in science in data science and machine learning in the united kingdom.
-
 
 - 🌱 I’m currently learning R programming and More SQL and Data pipelines, API workflows, CI/CD, containerisation) – specifically ML Ops principles, techniques and tooling and containerism
 
