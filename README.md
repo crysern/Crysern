@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning R programming and More SQL and Data pipelines, API workflows, CI/CD, containerisation) – specifically ML Ops principles, techniques and tooling and containerism
-
-- 🤔 I’m looking for help with everything all the time, i enjoy learning from others.
-
-- 💬 Ask me about Anything.
-
-- 📫 How to reach me: crysernsmith@gmail.com
-
-- 😄 Pronouns: she/her
-
-
-
-
 # 👨‍💻 Projects I'm working on
 
 ## 📊 Data Analysis
@@ -30,5 +17,3 @@
 
 ## ⚙️ Other Projects
 
--   SQL Project - Upon completion with Code First Girls Course
--   Google Analytics Project
